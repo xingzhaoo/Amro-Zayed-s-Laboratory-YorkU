@@ -3,10 +3,15 @@ MailMerge
 
 mergeEmailDL.py
 mergeEmailDL.py is used to merge duplicated emails in an excel spread sheet into distinct ones and merge all their associated records without losing any record.
+
 To use this program
+
 Step 1, export emails and their associated records from the excel spread sheet out to a .txt formate file. Give it any name such as "mergList.txt"
+
 Step2, move the "mergList.txt" under the same directory of this program.
+
 Step3, run ./mergeEmailDL.py mergList.txt > mergedfile.txt 
+
 Note the mergedfile.txt is where you save the final results onto. You can give any name to this file.
 *If you only want to view the results, you can just run ./mergeEmailDL.py mergList.txt
 
