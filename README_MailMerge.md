@@ -2,6 +2,7 @@
 MailMerge 
 
 mergeEmailDL.py
+
 mergeEmailDL.py is used to merge duplicated emails in an excel spread sheet into distinct ones and merge all their associated records without losing any record.
 
 To use this program
