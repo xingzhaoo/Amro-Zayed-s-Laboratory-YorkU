@@ -14,6 +14,7 @@ Step2, move the "mergList.txt" under the same directory of this program.
 Step3, run ./mergeEmailDL.py mergList.txt > mergedfile.txt 
 
 Note the mergedfile.txt is where you save the final results onto. You can give any name to this file.
+
 *If you only want to view the results, you can just run ./mergeEmailDL.py mergList.txt
 
 Once you have the dinstinct emails list(mergedfile.txt), use import it to a excel sheet.
